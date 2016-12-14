@@ -10,3 +10,4 @@ def circle_area(r):
 print(circle_area(7))
 print(circle_area(10))
 print(circle_area(33))
+print(circle_area(45))
