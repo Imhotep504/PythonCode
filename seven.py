@@ -7,9 +7,11 @@
 n = 11 
 f = 3.14
 s = "Gunna"
+owl = "sue" 
 
 print("my number is {:d}".format(n))   #printed in decimal ;) 
 print("my number is {:b}".format(n))   #printed in binary  ;) 
+print("the name of new person is {:s}".format(owl))
 
 print("{:f}".format(f)) 
 print("{:.2f}".format(f))     #number of decimal places 
@@ -18,7 +20,7 @@ print("{:015.2f}".format(f))  #padding w/ 0's + number of decimal places
 
 #printing multiple
 print("Now printing multiple ;)")
-print("{0} {1} {2}".format(n,f,s))
+print("{0} {1} {2} {3}".format(n,f,s,owl))
 
 #or do it another way here below 
 print("just to seperate the other way")
