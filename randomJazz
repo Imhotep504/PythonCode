@@ -1,0 +1,9 @@
+lsof      29342                 root  mem       REG              253,0    142304   35278968 /usr/lib64/libpthread-2.17.so
+lsof      29342                 root  mem       REG              253,0     19520   33753064 /usr/lib64/libdl-2.17.so
+lsof      29342                 root  mem       REG              253,0    153192   33819371 /usr/lib64/liblzma.so.5.0.99
+lsof      29342                 root  mem       REG              253,0    398272   33819374 /usr/lib64/libpcre.so.1.2.0
+lsof      29342                 root  mem       REG              253,0   2112384   33753058 /usr/lib64/libc-2.17.so
+lsof      29342                 root  mem       REG              253,0    147120   33819383 /usr/lib64/libselinux.so.1
+lsof      29342                 root  mem       REG              253,0    164440   35278958 /usr/lib64/ld-2.17.so
+lsof      29342                 root    4r     FIFO                0,8       0t0     143606 pipe
+lsof      29342                 root    7w     FIFO                0,8       0t0     143607 pipe
